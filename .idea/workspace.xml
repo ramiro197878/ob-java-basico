@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfc738e8-92d9-4b76-a31a-3c3b20f67eeb" name="Changes" comment="Session uno terminada">
-      <change afterPath="$PROJECT_DIR$/src/com/sesiondos/SesionDos.java" afterDir="false" />
+    <list default="true" id="bfc738e8-92d9-4b76-a31a-3c3b20f67eeb" name="Changes" comment="Session dos terminada">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sesiondos/SesionDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sesiondos/SesionDos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653941557443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Session dos terminada">
+      <created>1654007058338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654007058338</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Comienzo del proyecto" />
     <MESSAGE value="Session uno terminada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Session uno terminada" />
+    <MESSAGE value="Session dos terminada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session dos terminada" />
   </component>
 </project>

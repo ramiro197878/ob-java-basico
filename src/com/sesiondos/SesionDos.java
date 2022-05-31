@@ -3,9 +3,10 @@ package com.sesiondos;
 public class SesionDos {
     public static void main(String[] args) {
 
-        float precio = calcularImpuesto(300f);
+        float precio = 300.0f;
+        float calcular = calcularImpuesto(precio);
 
-        System.out.println("El precio con IVA incluido es de: " + precio);
+        System.out.println("El precio con IVA incluido es de: " + calcular);
 
     }
 
