@@ -6,8 +6,8 @@ public class SesionTres {
 
 
         String resultado = "";
-        for (int i = 0; i < nombres.length; i++) {
-           resultado = resultado.concat(nombres[i] + " ");
+        for (String nombre : nombres) {
+            resultado = resultado.concat(nombre + " ");
         }
         System.out.println(resultado);
     }
