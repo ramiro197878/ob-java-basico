@@ -11,6 +11,14 @@ package com.sesioncuatro;
 public class Main {
 
     public static void main(String[] args) {
+        SmartWatch reloj = new SmartWatch("1,4 pulgadas", "Exynos W920", 2,
+                16, "roja", "No");
+
+        SmartPhone celular = new SmartPhone("6,2 pulgadas", "Cortex-A78", 8,
+                128, "64 MP","12 MP");
+
+        System.out.println(celular);
+        System.out.println(reloj);
 
     }
 }
