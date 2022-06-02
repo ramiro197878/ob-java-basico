@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfc738e8-92d9-4b76-a31a-3c3b20f67eeb" name="Changes" comment="Session dos terminada">
+    <list default="true" id="bfc738e8-92d9-4b76-a31a-3c3b20f67eeb" name="Changes" comment="for modificado">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesioncuatro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesioncuatro/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesioncuatro/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesioncuatro/SmartWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sesiondos/SesionDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sesiondos/SesionDos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +35,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.SesionDos">
+}]]></component>
+  <component name="RunManager" selected="Application.SesionTres">
     <configuration name="SesionDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sesiondos.SesionDos" />
       <module name="ob-java-basico" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.sesiondos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SesionTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sesiontres.SesionTres" />
+      <module name="ob-java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sesiontres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SesionTres" />
         <item itemvalue="Application.SesionDos" />
         <item itemvalue="Application.com.sesionuno.SesionUno" />
         <item itemvalue="Application.SesionUno" />
@@ -115,7 +135,35 @@
       <option name="project" value="LOCAL" />
       <updated>1654007058338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Session dos terminada">
+      <created>1654013569084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654013569084</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Session dos terminada">
+      <created>1654013604517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654013604518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Session tres terminada">
+      <created>1654110494094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654110494094</updated>
+    </task>
+    <task id="LOCAL-00007" summary="for modificado">
+      <created>1654111837924</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654111837924</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +181,8 @@
     <MESSAGE value="Comienzo del proyecto" />
     <MESSAGE value="Session uno terminada" />
     <MESSAGE value="Session dos terminada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Session dos terminada" />
+    <MESSAGE value="Session tres terminada" />
+    <MESSAGE value="for modificado" />
+    <option name="LAST_COMMIT_MESSAGE" value="for modificado" />
   </component>
 </project>
